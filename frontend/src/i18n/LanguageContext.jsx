@@ -5,7 +5,7 @@ const dict = {
     "nav.home": "Home", "nav.about": "About", "nav.services": "Services",
     "nav.amc": "AMC", "nav.industries": "Industries", "nav.blog": "Blog",
     "nav.contact": "Contact", "nav.book": "Book Service",
-    "hero.badge": "Enterprise IT · India · Since 2014",
+    "hero.badge": "Enterprise IT · India · Since 2026",
     "hero.title1": "Enterprise Laptop", "hero.title2": "IT Infrastructure", "hero.title3": "Solutions.",
     "hero.subtitle": "Professional laptop repair, desktop repair, networking, AMC, chip-level board repair and corporate IT solutions — engineered for enterprises that cannot afford downtime.",
     "hero.bookBtn": "Book Service", "hero.inspectBtn": "Free Inspection",
